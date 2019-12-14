@@ -1,4 +1,3 @@
-countdown = 0 
 
 def countdown(seconds_to_midnight)
   while number > 0
